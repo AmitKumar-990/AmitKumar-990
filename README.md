@@ -1,23 +1,25 @@
-<h1 align="center">Hey 👋, I'm Amit Kumar</h1>
+<h1 align="left">Hey 👋 What's up?</h1>
 
-<p align="center">
-🚀 MERN Stack Developer | 🌱 Learning Next.js  
+<p align="left">
+I'm <b>Amit Kumar</b>, a passionate <b>MERN Stack Developer</b> 🚀  
 </p>
 
 ---
 
-## 👨‍💻 About Me
+<h2 align="left">👨‍💻 About me</h2>
 
-* ✨ Creating bugs since 2025 (and fixing them 😄)
-* 📚 Currently learning **Next.js & advanced backend**
-* 🎯 Goal: Become a top-tier full-stack developer
-* 📍 Chandigarh, India
+<p align="left">
+✨ Creating bugs since 2025 (and fixing them 😄)<br>
+📚 Currently learning <b>Next.js</b> & improving full-stack skills<br>
+🎯 Goal: Become a top-tier full-stack developer<br>
+📍 Based in Mohali  
+</p>
 
 ---
 
-## 🚀 Tech Stack
+<h2 align="left">🚀 Tech Stack</h2>
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
@@ -31,35 +33,29 @@
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="left">📊 GitHub Stats</h2>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmitKumar-990&theme=tokyonight" />
+<p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmitKumar-990&theme=tokyonight" />
 </p>
 
-<p align="center">
+<p>
   <img src="https://streak-stats.demolab.com?user=AmitKumar-990&theme=tokyonight" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+<h2 align="left">📫 Connect with me</h2>
 
-* 🔗 **Shortify** – URL shortener web app
-* 🔗 **Quick-Pick** – Smart selection tool
-* 🔗 **Quick.Make** – Productivity web app
-
----
-
-## 📫 Connect with Me
-
-<p align="center">
-<a href="https://linkedin.com/in/your-link">LinkedIn</a> •
-<a href="mailto:your-email@example.com">Email</a>
+<p align="left">
+<a href="https://www.linkedin.com/in/amitgupta44/" target="blank">LinkedIn</a> |
+<a href="mailto:your-amitguptaaa99.com">Email</a>
 </p>
 
 ---
 
-## ⚡ Fun Fact
+<h2 align="left">⚡ Fun fact</h2>
 
-I turn coffee ☕ into scalable web apps 🚀
+<p align="left">
+I turn coffee into scalable web apps 
+</p>
