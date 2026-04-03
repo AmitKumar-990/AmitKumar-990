@@ -36,7 +36,7 @@ I'm <b>Amit Kumar</b>, a passionate <b>MERN Stack Developer</b> 🚀
 <h2 align="left">📊 GitHub Stats</h2>
 
 <p>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AmitKumar-990&theme=tokyonight&utcOffset=5.5" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmitKumar-990&theme=tokyonight" />
 </p>
 
 <p>
