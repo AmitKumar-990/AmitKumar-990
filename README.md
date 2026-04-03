@@ -36,8 +36,7 @@ I'm <b>Amit Kumar</b>, a passionate <b>MERN Stack Developer</b> 🚀
 <h2 align="left">📊 GitHub Stats</h2>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=AmitKumar-990&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AmitKumar-990&show_icons=true&theme=tokyonight" /></p>
 
 <p>
   <img src="https://streak-stats.demolab.com?user=AmitKumar-990&theme=tokyonight" />
