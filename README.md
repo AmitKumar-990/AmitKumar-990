@@ -53,8 +53,8 @@
 
 <p align="left">
 🔗 <b>Shortify</b> – URL shortener web app <br>
-🔗 <b>Quick-Pick</b> – Smart selection tool <br>
-🔗 <b>Quick.Make</b> – Productivity web app  
+🔗 <b>Quick-Pick</b> – Smart Poll Web app <br>
+🔗 <b>Quick.Make</b> – Smart recipe sugegstion web app  
 </p>
 
 ---
