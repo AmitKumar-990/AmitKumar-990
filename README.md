@@ -43,9 +43,9 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmitKumar-990&theme=tokyonight" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://streak-stats.demolab.com?user=AmitKumar-990&theme=tokyonight" />
-</p>
+</p> -->
 
 ---
 
