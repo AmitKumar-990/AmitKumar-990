@@ -13,7 +13,7 @@
 <h2 align="left"> About me</h2>
 
 <p align="left">
- Creating bugs since 2025 (and fixing them 😄)<br>
+ Creating bugs since 2024 (and fixing them 😄)<br>
  Currently learning <b>Next.js</b> & improving full-stack skills<br>
  Goal: Become a top-tier full-stack developer<br>
  Based in Mohali, India  
